@@ -14,8 +14,8 @@ Practical application projects
 
 1. https://github.com/Polaris-hzn8/ChineseChess
 2. https://github.com/Polaris-hzn8/workflow
-3. https://github.com/Polaris-hzn8/rustdesk-server-demo
-4. https://github.com/Polaris-hzn8/Easy-Reactor
+3. https://github.com/Polaris-hzn8/Easy-Reactor
+4. https://github.com/Polaris-hzn8/rustdesk-server-demo
 
 Dig deeper
 
