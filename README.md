@@ -18,11 +18,11 @@ Dig deeper
 
 ---
 
-1. [Distributed-servers](https://github.com/Polaris-hzn8/Distributed-servers)：10%
-2. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
-3. [图床项目](https://github.com/Polaris-hzn8/picStorage-server)：10%
-4. [miniWechat](https://github.com/Polaris-hzn8/miniWechat)：10%
-5. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
+1. [Distributed-file-servers](https://github.com/Polaris-hzn8/Distributed-servers)：10%
+2. [图床项目](https://github.com/Polaris-hzn8/picStorage-server)：10%
+3. [miniWechat](https://github.com/Polaris-hzn8/miniWechat)：10%
+4. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
+5. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
 6. 安全传输平台：
 7. 负载均衡远程服务调用系统：
 
