@@ -2,10 +2,13 @@
 
 ---
 
-1. [Distributed-file-servers](https://github.com/Polaris-hzn8/Distributed-servers)：10%
-2. [miniWechat](https://github.com/Polaris-hzn8/miniWechat)：10%
-3. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
-4. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
+1. http-server
+2. ftp-server-libevent
+3. [Distributed-file-servers](https://github.com/Polaris-hzn8/Distributed-servers)：10%
+4. [miniWechat](https://github.com/Polaris-hzn8/miniWechat)：10%
+5. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
+6. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
+7. Game-server：base on c/s & p2p Architecture
 
 # Practical application
 
