@@ -5,9 +5,9 @@
 1. [chat-server](https://github.com/Polaris-hzn8/miniWechat)：70%
 2. [http-server](https://github.com/Polaris-hzn8/http-server)：10%
 3. [distributed-chat-server](https://github.com/Polaris-hzn8/distributed-chat-servers)：10%
-4. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
-5. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
-6. [remote-procedure-call](https://github.com/Polaris-hzn8/remote-procedure-call)：10%
+4. [mprpc](https://github.com/Polaris-hzn8/remote-procedure-call)：10%
+5. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
+6. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
 7. Game-server：base on c/s & p2p Architecture
 
 # Practical application
