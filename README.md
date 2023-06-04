@@ -9,7 +9,6 @@
 5. [tiny-muduo](https://github.com/Polaris-hzn8/tiny-muduo)：10%
 6. [mprpc](https://github.com/Polaris-hzn8/remote-procedure-call)：10%
 7. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
-8. [InstantMessagingSystem](https://github.com/Polaris-hzn8/InstantMessage)：10%
 9. Game-server：base on c/s & p2p Architecture
 
 # Practical application
@@ -18,7 +17,16 @@
 
 1. https://github.com/Polaris-hzn8/ChineseChess
 2. https://github.com/Polaris-hzn8/workflow
-3. https://github.com/Polaris-hzn8/Easy-Reactor
+3. https://github.com/Polaris-hzn8/Easy-Reactor 
+
+# Teamtalk
+
+---
+
+1. [tt-origin](https://github.com/Polaris-hzn8/tt)：for reference
+2. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
+3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
+4. teamtalk-android：10%
 
 # Dig deeper
 
