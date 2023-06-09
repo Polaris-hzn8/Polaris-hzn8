@@ -24,10 +24,12 @@
 ---
 
 1. [tt-origin](https://github.com/Polaris-hzn8/tt)：for reference
-2. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
-3. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
+2. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
+3. teamtalk-web-java：10%
 4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
-5. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
+5. [teamtalk-server-moduleTest](https://github.com/Polaris-hzn8/TeamTalk_BlueBling)：80%
+6. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
+7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
 
 # Dig deeper
 
