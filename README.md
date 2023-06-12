@@ -31,13 +31,24 @@
 6. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
 7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
 
-# Dig deeper
+# Base Research
 
 ---
 
 1. https://github.com/Polaris-hzn8/groundupdb
 2. https://github.com/Polaris-hzn8/duck_db
 3. https://github.com/Polaris-hzn8/rustdesk-server-demo
+
+# Pool Techniques
+
+---
+
+1. Thread Pool：
+2. [Hipe-Threadpool-Framework](https://github.com/Polaris-hzn8/Hipe-Threadpool-Framework)：a reference for thread pool
+3. [workspace](https://github.com/CodingHanYa/workspace)：thread pool advanced
+4. Database_Connection_Pool：
+5. Memory Pool：
+6. Object Pool：
 
 # HISTORY PROJECT
 
