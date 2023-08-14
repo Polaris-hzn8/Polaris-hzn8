@@ -2,7 +2,7 @@
 
 Hi, this is Polaris-hzn8, and welcome to my working space! 
 
-| <a href="https://github.com/Polaris-hzn8/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Polaris-hzn8&hide_border=true" /></a> | <a href="https://github.com/polaris-hzn8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris-hzn8&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Polaris-hzn8&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris-hzn8&layout=compact&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 **About me** 
