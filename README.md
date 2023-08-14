@@ -7,10 +7,10 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 **About me** 
 
-- 🌱 a self-taught passionate game developer from China zh
-- ❤️ I love writing C++, and building fun experiments on type-level
+- 🌱 a self-taught passionate game developer from China zh.
+- ❤️ I love writing C++, and building fun experiments on type-level.
 - 🔭 I’m now still keep learning.
-- 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues) 
+- 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues). 
 
 ### PROJECT BEING WORKED ON
 
