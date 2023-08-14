@@ -1,4 +1,20 @@
-# PROJECT BEING WORKED ON
+# Hi, this is Polaris-hzn8
+
+---
+
+Hi, this is Polaris-hzn8, and welcome to my working space! 
+
+| <a href="https://github.com/Polaris-hzn8/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Polaris-hzn8&hide_border=true" /></a> | <a href="https://github.com/polaris-hzn8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris-hzn8&layout=compact&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+**About me** 
+
+- 🌱 a self-taught passionate game developer from China zh
+- ❤️ I love writing C++, and building fun experiments on type-level
+- 🔭 I’m now still keep learning.
+- 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues) 
+
+### PROJECT BEING WORKED ON
 
 ---
 
@@ -10,7 +26,7 @@
 6. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
 9. Game-server：base on c/s & p2p Architecture
 
-# Practical application
+### Practical application
 
 ---
 
@@ -18,7 +34,7 @@
 2. https://github.com/Polaris-hzn8/workflow
 3. https://github.com/Polaris-hzn8/Easy-Reactor 
 
-# Teamtalk
+### Teamtalk
 
 ---
 
@@ -30,14 +46,14 @@
 6. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
 7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
 
-# Yun-Disk
+### Yun-Disk
 
 ---
 
 1. [YunDisk-server](https://github.com/Polaris-hzn8/YunDisk-server)：
 2. [YunDisk-client](https://github.com/Polaris-hzn8/YunDisk-client)：
 
-# Base Research
+### Base Research
 
 ---
 
@@ -45,7 +61,7 @@
 2. https://github.com/Polaris-hzn8/duck_db
 3. https://github.com/Polaris-hzn8/rustdesk-server-demo
 
-# Pool Techniques
+### Pool Techniques
 
 ---
 
@@ -56,7 +72,7 @@
 5. Memory Pool：
 6. Object Pool：
 
-# HISTORY PROJECT
+### HISTORY PROJECT
 
 ---
 
