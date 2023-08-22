@@ -52,15 +52,12 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 3. YunDisk-web：
 4. [fastDFS](https://github.com/polaris-hzn8/fastdfs/tree/feature/add-comments)：analyzing the source code of FastDFS
 
-### Base Research
+### LastBattle
 
 ---
 
-1. https://github.com/Polaris-hzn8/groundupdb
-2. https://github.com/Polaris-hzn8/duck_db
-3. https://github.com/Polaris-hzn8/rustdesk-server-demo
-4. https://github.com/Polaris-hzn8/workflow
-5. https://github.com/Polaris-hzn8/Easy-Reactor 
+1. [LastBattle-server](https://github.com/Polaris-hzn8/LastBattle-Server)：
+2. [LastBattle-client](https://github.com/Polaris-hzn8/LastBattle-Client)：
 
 ### Pool Techniques
 
@@ -73,16 +70,12 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 5. Memory Pool：
 6. Object Pool：
 
-### LastBattle
+### Base Research
 
 ---
 
-1. [LastBattle-server](https://github.com/Polaris-hzn8/LastBattle-Server)：
-2. [LastBattle-client](https://github.com/Polaris-hzn8/LastBattle-Client)：
-
-### HISTORY PROJECT
-
----
-
-1. [girui-takeout](https://github.com/Polaris-hnz8/girui-takeout)：80%
-2. [girui-takeout-Refactoring](https://github.com/Polaris-hnz8/girui-takeout-Refactoring)：80%
+1. https://github.com/Polaris-hzn8/groundupdb
+2. https://github.com/Polaris-hzn8/duck_db
+3. https://github.com/Polaris-hzn8/rustdesk-server-demo
+4. https://github.com/Polaris-hzn8/workflow
+5. https://github.com/Polaris-hzn8/Easy-Reactor 
