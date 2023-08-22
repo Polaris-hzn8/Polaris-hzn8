@@ -77,7 +77,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 ---
 
 1. [LastBattle-server](https://github.com/Polaris-hzn8/LastBattle-Server)：
-2. LastBattle-client：
+2. [LastBattle-client](https://github.com/Polaris-hzn8/LastBattle-Client)：
 
 ### HISTORY PROJECT
 
