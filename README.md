@@ -12,7 +12,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 - 🔭 I’m now still keep learning.
 - 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues). 
 - 🔗 Gitee：[documentation repository](https://gitee.com/Polaris-hzn8).
-- 🔗 CSDN：[personal blog platform](https://blog.csdn.net/weixin_49167174).
+- 🔗 csdn：[personal blog platform](https://blog.csdn.net/weixin_49167174).
 - 🔗 Leetcode：[algorithm practice website](https://leetcode.cn/u/polaris-hzn8/).
 - 🔗 GithubPage：[algorithm problem-solving summary](https://polaris-hzn8.github.io/).
 
