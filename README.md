@@ -11,13 +11,10 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 - ❤️ I love writing C++, and building fun experiments on type-level.
 - 🔭 I’m now still keep learning.
 - 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues). 
-
-**Social Links** 
-
-- [Gitee](https://gitee.com/Polaris-hzn8)：documentation repository
-- [Csdn](https://blog.csdn.net/weixin_49167174)：personal blog platform
-- [Leetcode](https://leetcode.cn/u/polaris-hzn8/)：algorithm practice website
-- [GithubPage](https://polaris-hzn8.github.io/)：algorithm problem-solving summary
+- 🔗 Gitee：[documentation repository](https://gitee.com/Polaris-hzn8).
+- 🔗 CSDN：[personal blog platform](https://blog.csdn.net/weixin_49167174).
+- 🔗 Leetcode：[algorithm practice website](https://leetcode.cn/u/polaris-hzn8/).
+- 🔗 GithubPage：[algorithm problem-solving summary](https://polaris-hzn8.github.io/).
 
 ### PROJECT BEING WORKED ON
 
