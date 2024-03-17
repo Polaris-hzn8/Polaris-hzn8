@@ -28,24 +28,15 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 6. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
 7. Game-server：base on c/s & p2p Architecture
 
-### QT application
-
----
-
-1. https://github.com/Polaris-hzn8/CoinFlip
-2. https://github.com/Polaris-hzn8/AircraftWar
-3. https://github.com/Polaris-hzn8/ChineseChess 
-
 ### Teamtalk
 
 ---
 
-1. [tt-origin](https://github.com/Polaris-hzn8/tt)：for reference
-2. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
-4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
-5. [teamtalk-server-moduleTest](https://github.com/Polaris-hzn8/TeamTalk_BlueBling)：80%
-6. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
-7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
+1. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
+2. [teamtalk-server-moduleTest](https://github.com/Polaris-hzn8/TeamTalk_BlueBling)：80%
+3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
+4. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
+5. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
 
 ### Yun-Disk
 
@@ -54,7 +45,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 1. [YunDisk-server](https://github.com/Polaris-hzn8/YunDisk-server)：
 2. [YunDisk-client](https://github.com/Polaris-hzn8/YunDisk-client)：
 3. YunDisk-web：
-4. [fastDFS](https://github.com/polaris-hzn8/fastdfs/tree/feature/add-comments)：analyzing the source code of FastDFS
+4. [fastDFS](https://github.com/polaris-hzn8/fastdfs/tree/feature/add-comments)：the source code of FastDFS
 
 ### LastBattle
 
@@ -62,6 +53,14 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 1. [LastBattle-server](https://github.com/Polaris-hzn8/LastBattle-Server)：
 2. [LastBattle-client](https://github.com/Polaris-hzn8/LastBattle-Client)：
+
+### Practice
+
+---
+
+1. CoinFlip：https://github.com/Polaris-hzn8/CoinFlip
+2. AircraftWar：https://github.com/Polaris-hzn8/AircraftWar
+3. ChineseChess ：https://github.com/Polaris-hzn8/ChineseChess 
 
 ### Pool Techniques
 
@@ -74,7 +73,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 3. [Memory Pool](https://github.com/Polaris-hzn8/Memory_Pool)：a memory pool practice
 4. Object Pool：
 
-### Base Research
+### Basic Research
 
 ---
 
@@ -86,7 +85,6 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 ---
 
-1. https://github.com/Polaris-hzn8/rustdesk-server-demo
-2. https://github.com/Polaris-hzn8/workflow
-3. https://github.com/Polaris-hzn8/Easy-Reactor 
+1. https://github.com/Polaris-hzn8/workflow
+2. https://github.com/Polaris-hzn8/Easy-Reactor 
 
