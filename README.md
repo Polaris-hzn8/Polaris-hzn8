@@ -9,24 +9,10 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 - 🌱 a self-taught passionate game developer from China zh.
 - ❤️ I love writing C++, and building fun experiments on type-level.
-- 🔭 I’m now still keep learning.
 - 💬 Ask me about anything [here](https://github.com/Polaris-hzn8/Polaris-hzn8/issues). 
 - 🔗 Gitee：[documentation repository](https://gitee.com/Polaris-hzn8).
 - 🔗 csdn：[personal blog platform](https://blog.csdn.net/weixin_49167174).
 - 🔗 Leetcode：[algorithm practice website](https://leetcode.cn/u/polaris-hzn8/).
-- 🔗 GithubPage：[algorithm problem-solving summary](https://polaris-hzn8.github.io/).
-
-### PROJECT BEING WORKED ON
-
----
-
-1. [chat-server](https://github.com/Polaris-hzn8/miniWechat)：70%
-2. [distributed-chat-server](https://github.com/Polaris-hzn8/distributed-chat-servers)：80%
-3. [http-server](https://github.com/Polaris-hzn8/http-server)：10%
-4. [tiny-muduo](https://github.com/Polaris-hzn8/tiny-muduo)：10%
-5. [mprpc](https://github.com/Polaris-hzn8/remote-procedure-call)：10%
-6. [SocialPlatform](https://github.com/Polaris-hzn8/SocialPlatform)：10%
-7. Game-server：base on c/s & p2p Architecture
 
 ### Teamtalk
 
@@ -54,37 +40,47 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 1. [LastBattle-server](https://github.com/Polaris-hzn8/LastBattle-Server)：
 2. [LastBattle-client](https://github.com/Polaris-hzn8/LastBattle-Client)：
 
+---
+
 ### Practice
 
----
+| QT项目     | 仓库地址                                     |
+| ---------- | -------------------------------------------- |
+| 翻硬币     | https://github.com/Polaris-hzn8/CoinFlip     |
+| 飞机大战   | https://github.com/Polaris-hzn8/AircraftWar  |
+| 中国象棋   | https://github.com/Polaris-hzn8/ChineseChess |
+| 欢乐斗地主 | https://github.com/Polaris-hzn8/LordCard     |
 
-1. CoinFlip：https://github.com/Polaris-hzn8/CoinFlip
-2. AircraftWar：https://github.com/Polaris-hzn8/AircraftWar
-3. ChineseChess ：https://github.com/Polaris-hzn8/ChineseChess 
+|
+|
+|
+|
+|
 
-### Pool Techniques
+| 练习项目1      | 仓库地址                                                 |
+| -------------- | -------------------------------------------------------- |
+| 简单聊天室     | https://github.com/Polaris-hzn8/miniWechat               |
+| 并发聊天服务器 | https://github.com/Polaris-hzn8/distributed-chat-servers |
+| 社交平台       | https://github.com/Polaris-hzn8/SocialPlatform           |
 
----
+| 练习项目2       | 仓库地址                                              |
+| --------------- | ----------------------------------------------------- |
+| http服务器实现  | https://github.com/Polaris-hzn8/http-server           |
+| muduo网络库实现 | https://github.com/Polaris-hzn8/tiny-muduo            |
+| RPC框架实现     | https://github.com/Polaris-hzn8/remote-procedure-call |
 
-1. [MyThread_Pool](https://github.com/Polaris-hzn8/Thread_Pool)：basic thread pool practice
-    - [Hipe-Threadpool-Framework](https://github.com/Polaris-hzn8/Hipe-Threadpool-Framework)：a reference for thread pool
-    - [workspace](https://github.com/CodingHanYa/workspace)：thread pool advanced
-2. [DatabaseConnection Pool](https://github.com/Polaris-hzn8/Database_Connection_Pool)：a database connection pool practice
-3. [Memory Pool](https://github.com/Polaris-hzn8/Memory_Pool)：a memory pool practice
-4. Object Pool：
+| 练习项目3            | 仓库地址                                   |
+| -------------------- | ------------------------------------------ |
+| TCPIP协议栈实现      | https://github.com/Polaris-hzn8/tcpip      |
+| 实现数据库groundupdb | https://github.com/Polaris-hzn8/groundupdb |
+| 实现数据库duck_db    | https://github.com/Polaris-hzn8/duck_db    |
 
-### Basic Research
-
----
-
-1. tcpip：https://github.com/Polaris-hzn8/tcpip 
-2. groundupdb：https://github.com/Polaris-hzn8/groundupdb
-3. duck_db：https://github.com/Polaris-hzn8/duck_db
-
-### Others
-
----
-
-1. https://github.com/Polaris-hzn8/workflow
-2. https://github.com/Polaris-hzn8/Easy-Reactor 
+| 练习项目4                  | 仓库地址                                                  |
+| -------------------------- | --------------------------------------------------------- |
+| basic thread pool practice | https://github.com/Polaris-hzn8/Thread_Pool               |
+| Hipe-Threadpool-Framework  | https://github.com/Polaris-hzn8/Hipe-Threadpool-Framework |
+| thread pool advanced       | https://github.com/CodingHanYa/workspace                  |
+| 连接池                     | https://github.com/Polaris-hzn8/Database_Connection_Pool  |
+| 内存池                     | https://github.com/Polaris-hzn8/Memory_Pool               |
+| 对象池                     | null                                                      |
 
