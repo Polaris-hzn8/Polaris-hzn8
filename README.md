@@ -51,12 +51,6 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 | 中国象棋   | https://github.com/Polaris-hzn8/ChineseChess |
 | 欢乐斗地主 | https://github.com/Polaris-hzn8/LordCard     |
 
-|
-|
-|
-|
-|
-
 | 练习项目1      | 仓库地址                                                 |
 | -------------- | -------------------------------------------------------- |
 | 简单聊天室     | https://github.com/Polaris-hzn8/miniWechat               |
