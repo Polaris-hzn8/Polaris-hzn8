@@ -42,7 +42,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 ---
 
-### Practice
+### Practice_Demo
 
 1. QT项目：
    - 翻硬币：https://github.com/Polaris-hzn8/CoinFlip
