@@ -44,37 +44,33 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 ### Practice
 
-| QT项目     | 仓库地址                                     |
-| ---------- | -------------------------------------------- |
-| 翻硬币     | https://github.com/Polaris-hzn8/CoinFlip     |
-| 飞机大战   | https://github.com/Polaris-hzn8/AircraftWar  |
-| 中国象棋   | https://github.com/Polaris-hzn8/ChineseChess |
-| 欢乐斗地主 | https://github.com/Polaris-hzn8/LordCard     |
+1. QT项目：
+   - 翻硬币：https://github.com/Polaris-hzn8/CoinFlip
+   - 飞机大战：https://github.com/Polaris-hzn8/AircraftWar
+   - 中国象棋：https://github.com/Polaris-hzn8/ChineseChess
+   - 欢乐斗地主：https://github.com/Polaris-hzn8/LordCard
+2. 社交项目：
+   - 聊天室：https://github.com/Polaris-hzn8/miniWechat
+   - 并发聊天服务器：https://github.com/Polaris-hzn8/distributed-chat-servers
+   - 社交平台：https://github.com/Polaris-hzn8/SocialPlatform
+3. 基础研究1：
+   - http服务器：https://github.com/Polaris-hzn8/http-server
+   - muduo网络库实现：https://github.com/Polaris-hzn8/tiny-muduo
+   - RPC框架实现：https://github.com/Polaris-hzn8/remote-procedure-call
+4. 基础研究2：
+   - TCPIP协议栈：https://github.com/Polaris-hzn8/tcpip
+   - groundupdb：https://github.com/Polaris-hzn8/groundupdb
+   - duck_db：https://github.com/Polaris-hzn8/duck_db
+5. 池化技术：
+   - basic thread pool practice：https://github.com/Polaris-hzn8/Thread_Pool
+   - Hipe-Threadpool-Framework：https://github.com/Polaris-hzn8/Hipe-Threadpool-Framework
+   - thread pool advanced：https://github.com/CodingHanYa/workspace
+   - 连接池：https://github.com/Polaris-hzn8/Database_Connection_Pool
+   - 内存池：https://github.com/Polaris-hzn8/Memory_Pool
 
-| 练习项目1      | 仓库地址                                                 |
-| -------------- | -------------------------------------------------------- |
-| 简单聊天室     | https://github.com/Polaris-hzn8/miniWechat               |
-| 并发聊天服务器 | https://github.com/Polaris-hzn8/distributed-chat-servers |
-| 社交平台       | https://github.com/Polaris-hzn8/SocialPlatform           |
 
-| 练习项目2       | 仓库地址                                              |
-| --------------- | ----------------------------------------------------- |
-| http服务器实现  | https://github.com/Polaris-hzn8/http-server           |
-| muduo网络库实现 | https://github.com/Polaris-hzn8/tiny-muduo            |
-| RPC框架实现     | https://github.com/Polaris-hzn8/remote-procedure-call |
 
-| 练习项目3            | 仓库地址                                   |
-| -------------------- | ------------------------------------------ |
-| TCPIP协议栈实现      | https://github.com/Polaris-hzn8/tcpip      |
-| 实现数据库groundupdb | https://github.com/Polaris-hzn8/groundupdb |
-| 实现数据库duck_db    | https://github.com/Polaris-hzn8/duck_db    |
 
-| 练习项目4                  | 仓库地址                                                  |
-| -------------------------- | --------------------------------------------------------- |
-| basic thread pool practice | https://github.com/Polaris-hzn8/Thread_Pool               |
-| Hipe-Threadpool-Framework  | https://github.com/Polaris-hzn8/Hipe-Threadpool-Framework |
-| thread pool advanced       | https://github.com/CodingHanYa/workspace                  |
-| 连接池                     | https://github.com/Polaris-hzn8/Database_Connection_Pool  |
-| 内存池                     | https://github.com/Polaris-hzn8/Memory_Pool               |
-| 对象池                     | null                                                      |
+
+
 
