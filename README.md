@@ -18,11 +18,11 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 ---
 
-1. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
-2. [teamtalk-server-moduleTest](https://github.com/Polaris-hzn8/TeamTalk_BlueBling)：80%
-3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
-4. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
+1. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：80%
+2. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：90%
+3. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：80%
 5. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
+5. teamtalk-userCenter：todevlop
 
 ### Yun-Disk
 
@@ -49,16 +49,14 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
    - 飞机大战：https://github.com/Polaris-hzn8/AircraftWar
    - 中国象棋：https://github.com/Polaris-hzn8/ChineseChess
    - 欢乐斗地主：https://github.com/Polaris-hzn8/LordCard
-2. 社交项目：
+3. muduo网络库：
    - 聊天室：https://github.com/Polaris-hzn8/miniWechat
-   - 并发聊天服务器：https://github.com/Polaris-hzn8/distributed-chat-servers
-   - 社交平台：https://github.com/Polaris-hzn8/SocialPlatform
-3. 基础研究1：
-   - http服务器：https://github.com/Polaris-hzn8/http-server
-   - muduo网络库实现：https://github.com/Polaris-hzn8/tiny-muduo
+   - muduo网络库：https://github.com/Polaris-hzn8/tiny-muduo
+   - 聊天服务器：https://github.com/Polaris-hzn8/distributed-chat-servers
    - RPC框架实现：https://github.com/Polaris-hzn8/remote-procedure-call
-4. 基础研究2：
-   - TCPIP协议栈：https://github.com/Polaris-hzn8/tcpip
+4. 基础组件研究：
+   - http服务器：https://github.com/Polaris-hzn8/http-server
+   - TCP\IP协议栈：https://github.com/Polaris-hzn8/tcpip
    - groundupdb：https://github.com/Polaris-hzn8/groundupdb
    - duck_db：https://github.com/Polaris-hzn8/duck_db
 5. 池化技术：
