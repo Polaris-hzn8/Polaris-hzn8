@@ -18,13 +18,13 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 ---
 
-1. [teamtalk-dcRepo](https://github.com/Polaris-hzn8/teamtalk-dcRepo.git)：文档中心 80%
-2. [teamtalk-netlib](https://github.com/Polaris-hzn8/teamtalk-netlib)：跨平台网络库 80%
-3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：客户端 80%
-4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：业务后台 90%
-5. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：管理员后台 80%
-6. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：10%
-7. teamtalk-userCenter：todevlop
+1. [teamtalk-doc](https://github.com/Polaris-hzn8/teamtalk-doc)：文档中心
+2. [teamtalk-netlib](https://github.com/Polaris-hzn8/teamtalk-netlib)：跨平台网络库
+3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：Windows客户端
+4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：后台微服务集群
+5. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：管理员后台
+6. [teamtalk-proto](https://github.com/Polaris-hzn8/teamtalk-proto)：通信接口定义
+7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：完善中
 
 ### Yun-Disk
 
