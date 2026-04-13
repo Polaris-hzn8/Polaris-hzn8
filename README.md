@@ -2,10 +2,7 @@
 
 Hi, this is Polaris-hzn8, and welcome to my working space! 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Polaris-hzn8&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris-hzn8&layout=compact&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-**About me** 
+### About me
 
 - 🌱 a self-taught passionate game developer from China zh.
 - ❤️ I love writing C++, and building fun experiments on type-level.
@@ -19,12 +16,11 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 ---
 
 1. [teamtalk-doc](https://github.com/Polaris-hzn8/teamtalk-doc)：文档中心
-2. [teamtalk-netlib](https://github.com/Polaris-hzn8/teamtalk-netlib)：跨平台网络库
+2. [teamtalk-imcore](https://github.com/Polaris-hzn8/teamtalk-netlib)：跨平台网络通信库
 3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：Windows客户端
 4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：后台微服务集群
-5. [teamtalk-web-php](https://github.com/Polaris-hzn8/teamtalk-web-php)：管理员后台
-6. [teamtalk-proto](https://github.com/Polaris-hzn8/teamtalk-proto)：通信接口定义
-7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：完善中
+5. [teamtalk-admin](https://github.com/Polaris-hzn8/teamtalk-web-php)：管理员中台
+7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：移动端/待完善
 
 ### Yun-Disk
 
@@ -32,7 +28,7 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 
 1. [YunDisk-server](https://github.com/Polaris-hzn8/YunDisk-server)：
 2. [YunDisk-client](https://github.com/Polaris-hzn8/YunDisk-client)：
-3. YunDisk-web：
+3. YunDisk-admin：
 4. [fastDFS](https://github.com/polaris-hzn8/fastdfs/tree/feature/add-comments)：the source code of FastDFS
 
 ### LastBattle
