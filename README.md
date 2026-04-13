@@ -19,8 +19,8 @@ Hi, this is Polaris-hzn8, and welcome to my working space!
 2. [teamtalk-imcore](https://github.com/Polaris-hzn8/teamtalk-netlib)：跨平台网络通信库
 3. [teamtalk-win](https://github.com/Polaris-hzn8/teamtalk-win)：Windows客户端
 4. [teamtalk-server](https://github.com/Polaris-hzn8/teamtalk-server)：后台微服务集群
-5. [teamtalk-admin](https://github.com/Polaris-hzn8/teamtalk-web-php)：管理员中台
-7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：移动端/待完善
+5. [teamtalk-admin](https://github.com/Polaris-hzn8/teamtalk-web-php)：数据统计管理中台
+7. [teamtalk-android](https://github.com/Polaris-hzn8/teamtalk-android)：待完善
 
 ### Yun-Disk
 
